@@ -1,5 +1,3 @@
-// const dino = document.querySelector('.dino');
-// const background = document.querySelector('.background');
 const divStart = document.querySelector('.start');
 const h1 = document.getElementsByTagName('h1')[0];
 const body = document.querySelector('body');
