@@ -17,12 +17,12 @@ h1 {
     bottom: 10px;
 }
 
-.cactus {
+.cebolinha {
     position: absolute;
     width: 60px;
     height: 60px;
     bottom: 10px;
-    background-image: url(../img/cactus.png);
+    background-image: url(../img/cebolinha.png);
 }
 
 @keyframes slideRight {
